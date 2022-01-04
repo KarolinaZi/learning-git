@@ -1,6 +1,7 @@
 shopping2 = {
 "nabial": ["ser","mleko"],
 "kiosk": ["gazeta","bilety"]
+"drogeria": ["mydlo","pasta do zebow"]
 }
 Ilosc = 0
 
