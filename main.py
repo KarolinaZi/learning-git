@@ -15,3 +15,4 @@ for shop in shopping2:
 linia += (f"W sumie kupuję {Ilosc} produktów")
 
 print(linia)
+print("Monty Python")
