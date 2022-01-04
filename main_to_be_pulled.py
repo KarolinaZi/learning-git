@@ -5,7 +5,7 @@ shopping2 = {
 }
 Ilosc = 0
 
-linia = "Lista zakupów2\n"
+linia = "Lista zakupów3\n"
 
 for shop in shopping2:
     shopping2[shop] = [product.capitalize() for product in shopping2[shop]]   
@@ -16,4 +16,6 @@ for shop in shopping2:
 linia += (f"W sumie kupuję {Ilosc} produktów")
 
 print(linia)
-print("Monty Python")
+print("Drogeria added")
+print("Add 3rd branch")
+print ("Add new branch in Learning Git project-second try")
